@@ -38,7 +38,7 @@ cd Service-AutoSendEmail
 2. Import file My-workflow.json, file này lấy được ở trong thư mục Service-AutoSendEmail
 
 #### Bước 4: Chỉnh sửa các tài khoản dịch vụ
-Ở trong node Send Email sẽ có phần **Credential to connect with**, hãy chỉnh sửa tài khoản SMTP của mình ở đây. 
+Ở trong node Send Email sẽ có phần **Credential to connect with**, có thể chỉnh sửa tài khoản SMTP của mình ở đây. 
 
 ## Tác giả
 - Nguyễn Lê Trung Thành

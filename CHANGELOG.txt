@@ -1,1 +1,8 @@
+Changelog
 
+v1.0
+- Node WebHook 
+  - Node này sẽ lắng nghe sự kiện và nhận dữ liệu gửi về khi có 1 lịch hẹn khám được đăng ký. Dữ liệu gửi về ở đây sẽ là: email của bệnh nhân và nội dung email.
+
+- Node Send Email
+  -  Node này sẽ lấy thông tin từ node đầu tiên rồi sử dụng dịch vụ gửi email của Google để thực hiện việc gửi email lịch hẹn đến bệnh nhân.  
